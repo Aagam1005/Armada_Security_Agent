@@ -1,7 +1,8 @@
-# Armada_Security_Agent
 # 🛡️ Security Agent - Vercel AI SDK Vulnerability Detection
 
 A production-ready security vulnerability detection agent powered by the **[Vercel AI SDK](https://sdk.vercel.ai/)**. Analyze websites, code, and system architectures for security vulnerabilities in real-time. Because it uses the Vercel AI toolkit, it requires **no local LLM engine**, is fully serverless, and allows you to easily bypass Anthropic by swapping to OpenAI, Google Gemini, or Groq with a single line of code. 
+
+🔴 **Live Demo:** [https://armada-three-kohl.vercel.app/](https://armada-three-kohl.vercel.app/)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_REPO)
 
